@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shridhar, a second year Computer Science Specialist, Math Major and Statistics Minor at the University of Toronto
-- 👀 I’m interested in Full-Stack Software Development, Computer Systems, and Computer Vision
-- 🌱 I’m currently learning Systems Programming, Vision, Data Structures, Algorithms and Multivariable Calculus
-- 💞️ I’m looking to collaborate on open-source projects, hackathons, and anything innovative really!
-- 📫 Email me at shridhar.shatrughan@mail.utoronto.ca
+- 👋 Hi, I’m Shridhar, a second year Computer Science Specialist at the University of Toronto
+- 👀 I’m interesting in Full-Stack Software Engineering, Computer Systems, and Computer Vision
+- 🌱 I’m currently learning Web Programming, Systems Programming, Vision, Data Structures, Algorithms and Multivariable Calculus
+- 💞️ I’m looking to collaborate on innovation
+- 📫 Contact me at shridhar.shatrughan@mail.utoronto.ca
 
 <!---
 shribyte/shribyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
