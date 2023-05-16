@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shridhar, a third year Computer Science Specialist at the University of Toronto
-- 👀 I’m interesting in Full-Stack Software Engineering, Computer Systems, and Computer Vision
+- 👀 I’m interesting in Full-Stack Software Engineering, Systems, and Computer Vision
 - 🌱 I’m currently learning Web Programming, Systems Programming, Vision, Data Structures, Algorithms and Multivariable Calculus
-- 💞️ I’m looking to collaborate on innovation
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 Contact me at shridhar.shatrughan@mail.utoronto.ca
 
 <!---
